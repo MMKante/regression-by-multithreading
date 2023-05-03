@@ -1,0 +1,6 @@
+./bin/*
+./obj/*
+./MultiThreading.depend
+./MultiThreading.layout
+./gitignore
+./

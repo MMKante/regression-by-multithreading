@@ -1,0 +1,25 @@
+{
+	"multiThreaded": true,
+	"solvers": {
+		"linear": {
+			"enabled": true
+		},
+		"exponential": {
+			"enabled": true
+		},
+		"polynomial": {
+			"enabled": true,
+			"degree": 3
+		},
+		"logarithmic": {
+			"enabled": true
+		},
+		"powerSeries": {
+			"enabled": true
+		},
+		"movingAverage": {
+			"enabled": false,
+			"period": 100
+		}
+	}
+}
